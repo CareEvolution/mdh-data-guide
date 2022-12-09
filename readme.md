@@ -12,9 +12,9 @@ Try out the example [notebooks](https://github.com/CareEvolution/mdh-data-guide/
 
 ### Example Queries
 
-Try out the example [queries](https://github.com/CareEvolution/mdh-data-guide/blob/main/queries) to explore and transform your MDH data using SQL. These queries can be run from the Export Explorer page in [MyDataHelps Designer]() or using your preferred query application.
+Try out the example [queries](https://github.com/CareEvolution/mdh-data-guide/blob/main/queries) to explore and transform your MDH data using SQL. These queries can be run from the Export Explorer page in [MyDataHelps Designer](https://designer.mydatahelps.org) or using your preferred query application.
 
-# Getting Started with Example Notebooks.
+# Getting Started with Example Notebooks
 
 1. Clone this repository.
 2. Install [Python](https://www.python.org/downloads/) (if you do not already have Python 3.9 or later).
@@ -29,3 +29,7 @@ Once installed, run the following command to start Jupyter Lab:
 ```
 jupyter lab
 ```
+
+4. Gather Your Export Database Configuration Settings and Credentials
+
+To obtain the configuration settings for your project's Export Database, open [MyDataHelps Designer](https://designer.mydatahelps.org) and navigate to the Settings tab for your project. Click Export Explorer. The External Applications tab will provide the required configuration settings that will be used in the example notebooks.
