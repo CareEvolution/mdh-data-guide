@@ -12,7 +12,7 @@ Try out the example [notebooks](https://github.com/CareEvolution/mdh-data-guide/
 
 ### Example Queries
 
-Try out the example [queries](https://github.com/CareEvolution/mdh-data-guide/blob/main/queries) to explore and transform your MyDataHelps data using SQL. These queries can be run from the Export Explorer page in [MyDataHelps Designer](https://designer.mydatahelps.org) or using your preferred query application.
+Try out the example [queries](https://github.com/CareEvolution/mdh-data-guide/blob/main/queries) to explore and transform your MyDataHelps data using SQL. To run these queries, sign into [MyDataHelps Designer](https://designer.mydatahelps.org) and navigate to the Export Explorer page (under Settings for your project).
 
 # Getting Started with Example Notebooks
 
