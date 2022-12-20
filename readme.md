@@ -9,11 +9,9 @@ This repository is organized into two main sections:
 * Jupyter notebooks to let you interpret and model your data using Python and Pandas.
 * Example queries to explore and transform your data in the MyDataHelps Export Explorer.
 
-### Example Notebooks
+## Getting Started with Example Notebooks
 
 Try out the example [notebooks](https://github.com/CareEvolution/mdh-data-guide/blob/main/notebooks) to interpret and model your MyDataHelps data using Python and Pandas.
-
-# Getting Started with Example Notebooks
 
 1. Clone this repository.
 2. Install [Python](https://www.python.org/downloads/) (if you do not already have Python 3.9 or later).
@@ -37,7 +35,7 @@ Each notebook has a cell that should be updated with the settings that you obtai
 
 Follow the instructions on the External Applications tab to place your credentials in your local [AWS credentials file](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html). This process ensures your credentials will never be saved in files that are managed by this repository. 
 
-### Example Queries
+## Getting Started with Example Queries
 
 Try out the example [queries](https://github.com/CareEvolution/mdh-data-guide/blob/main/queries) to explore and transform your MyDataHelps data using SQL. 
 
