@@ -6,13 +6,12 @@ The MyDataHelps Export Database is a hosted data store that is managed by CareEv
 
 This repository is organized into two main sections:
 
+* Jupyter notebooks to let you interpret and model your data using Python and Pandas.
+* Example queries to explore and transform your data in the MyDataHelps Export Explorer.
+
 ### Example Notebooks
 
 Try out the example [notebooks](https://github.com/CareEvolution/mdh-data-guide/blob/main/notebooks) to interpret and model your MyDataHelps data using Python and Pandas.
-
-### Example Queries
-
-Try out the example [queries](https://github.com/CareEvolution/mdh-data-guide/blob/main/queries) to explore and transform your MyDataHelps data using SQL. To run these queries, sign into [MyDataHelps Designer](https://designer.mydatahelps.org) and navigate to the Export Explorer page (under Settings for your project).
 
 # Getting Started with Example Notebooks
 
@@ -37,3 +36,14 @@ To obtain the configuration settings for your project's Export Database, open [M
 Each notebook has a cell that should be updated with the settings that you obtain for your project. 
 
 Follow the instructions on the External Applications tab to place your credentials in your local [AWS credentials file](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html). This process ensures your credentials will never be saved in files that are managed by this repository. 
+
+### Example Queries
+
+Try out the example [queries](https://github.com/CareEvolution/mdh-data-guide/blob/main/queries) to explore and transform your MyDataHelps data using SQL. 
+
+To run these queries:
+
+1. Sign into [MyDataHelps Designer](https://designer.mydatahelps.org). 
+2. Open your project settings.
+3. Select Export Explorer.
+4. Paste the query into the query window and run it.
